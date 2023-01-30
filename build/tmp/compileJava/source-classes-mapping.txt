@@ -1,0 +1,10 @@
+com/sgiasia/javaspringboot/jdbcbasic/config/dbconfig.java
+ com.sgiasia.javaspringboot.jdbcbasic.config.dbconfig
+com/sgiasia/javaspringboot/jdbcbasic/helper/JDBCHelper.java
+ com.sgiasia.javaspringboot.jdbcbasic.helper.JDBCHelper
+com/sgiasia/javaspringboot/jdbcbasic/model/Product.java
+ com.sgiasia.javaspringboot.jdbcbasic.model.Product
+com/sgiasia/javaspringboot/jdbcbasic/repository/ProductRepo.java
+ com.sgiasia.javaspringboot.jdbcbasic.repository.ProductRepo
+com/sgiasia/javaspringboot/jdbcbasic/Main.java
+ com.sgiasia.javaspringboot.jdbcbasic.Main
